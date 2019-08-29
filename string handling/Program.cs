@@ -58,14 +58,9 @@ namespace string_handling
             Console.Write(TrimStart("                Hello, Polo!               "));
             Console.Write(TrimEnd("               Hello, Polo!               "));
             Console.WriteLine(123);
-            
 
-
-
-
-
-
-
+            //some
+            Console.WriteLine(456);
 
             Console.ReadLine();
         }
